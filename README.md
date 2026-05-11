@@ -5,7 +5,7 @@ Lớp:K58KTP
 ## Dự Án: So Sánh Hiệu Năng và Kiến Trúc Pandas vs. PySpark Trên Cụm Phân Tán
 **🔗 Links dự án:
 
-GitHub Repository: [Thêm link GitHub của bạn vào đây]
+GitHub Repository: https://github.com/XuanPhuong01/BAITHUCHANH.git
 
 Video Demo / Thuyết trình: https://drive.google.com/file/d/18Jeyvf9VljJFqhNFdTkntJvRK9ydsTmv/view?usp=drive_link
 
