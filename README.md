@@ -7,7 +7,7 @@ Lớp:K58KTP
 
 GitHub Repository: [Thêm link GitHub của bạn vào đây]
 
-Video Demo / Thuyết trình: [Thêm link Video YouTube/Drive của bạn vào đây]
+Video Demo / Thuyết trình: https://drive.google.com/file/d/18Jeyvf9VljJFqhNFdTkntJvRK9ydsTmv/view?usp=drive_link
 
 ### 1. Bối Cảnh & Mục Tiêu: 
     Dự án này được xây dựng nhằm mục đích tính toán "Doanh thu trung bình và thời gian di chuyển theo từng khung giờ trong ngày" từ bộ dữ liệu chuyến đi của Taxi. Thông qua dự án, chúng ta sẽ thực nghiệm và so sánh cách xử lý dữ liệu dạng bảng bằng Pandas (xử lý trên bộ nhớ đơn máy) so với PySpark DataFrame (xử lý phân tán).
